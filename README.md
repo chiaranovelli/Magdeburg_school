@@ -1,4 +1,4 @@
-# Magdeburg school
+# 3rd HyCAM doctoral workshop
 Exercise on PCA and POD
 
 In this session, we are going to explore how **Principal Component Analysis (PCA)** and **Proper Orthogonal Decomposition (POD)** can be used for a combustion dataset.  
@@ -18,25 +18,8 @@ We will use Google Colab to run Python code on a remote machine, which includes 
 If you encounter any problem, you can contact us.
 
 ## Contacts
-- Alberto Procacci (alberto.procacci@ulb.be)
-- Chiara Novelli (chiara.novelli@ulb.be)
+- Alberto Procacci (Alberto.Procacci@ulb.be)
 
-
-## How to open the exercise notebook
-
-Open the notebook directly in Google Colab using this link: 
-
-**[exercise](https://colab.research.google.com/github/chiaranovelli/Magdeburg_school/blob/main/PCA_POD_sol.ipynb#scrollTo=b1575de5)**
-
-
-This will launch the notebook in Colab, where you can run all the code step by step.  
-
----
-
-## What You Will Do
-
-- Load and visualize a combustion dataset  
-- Apply PCA to extract dominant modes   
 
 --- 
 
