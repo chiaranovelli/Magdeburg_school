@@ -39,5 +39,3 @@ For the project, it would be best to use generative AI to help you write the cod
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Introduction to Numpy](https://www.youtube.com/watch?v=VXU4LSAQDSc)
 
-## Exercises:
-
