@@ -1,4 +1,4 @@
-# Magdeburg_school
+# Magdeburg school
 Exercitation on PCA and POD
 
 In this session, we are going to explore how **Principal Component Analysis (PCA)** and **Proper Orthogonal Decomposition (POD)** can be used for a combustion dataset.  
@@ -28,3 +28,16 @@ This will launch the notebook in Colab, where you can run all the code step by s
 --- 
 
 After the hands-on session, the notebook with the solution will be added to this repo.
+
+## Regarding generative AI
+During the exercise sessions, we strongly advise you against using generative AI, because it would entirely defeat its purpose.
+For the project, it would be best to use generative AI to help you write the code rather than to build everything from scratch.
+
+## Resources to help you with Python:
+- [Google Colab tutorial](https://www.youtube.com/watch?v=1MqYi-mlBDA) 
+- [Google Colab intro](https://colab.research.google.com/github/anthony-agbay/python-resource-guide/blob/master/notebooks/intro-notebooks.ipynb)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Introduction to Numpy](https://www.youtube.com/watch?v=VXU4LSAQDSc)
+
+## Exercises:
+
