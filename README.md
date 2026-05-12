@@ -19,23 +19,7 @@ If you encounter any problem, you can contact us.
 
 ## Contacts
 - Alberto Procacci (Alberto.Procacci@ulb.be)
-
-
-## How to open the exercise notebook
-
-Open the notebook directly in Google Colab using this link: 
-
-**[exercise](https://colab.research.google.com/github/chiaranovelli/Magdeburg_school/blob/main/PCA_POD_sol.ipynb#scrollTo=b1575de5)**
-
-
-This will launch the notebook in Colab, where you can run all the code step by step.  
-
----
-
-## What You Will Do
-
-- Load and visualize a combustion dataset  
-- Apply PCA to extract dominant modes   
+  
 
 --- 
 
