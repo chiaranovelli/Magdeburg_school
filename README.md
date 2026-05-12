@@ -1,4 +1,4 @@
-# Magdeburg school
+# 3rd HyCAM doctoral workshop
 Exercise on PCA and POD
 
 In this session, we are going to explore how **Principal Component Analysis (PCA)** and **Proper Orthogonal Decomposition (POD)** can be used for a combustion dataset.  
