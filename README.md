@@ -18,7 +18,8 @@ We will use Google Colab to run Python code on a remote machine, which includes 
 If you encounter any problem, you can contact us.
 
 ## Contacts
-- Alberto Procacci (Alberto.Procacci@ulb.be)
+- Alberto Procacci (alberto.procacci@ulb.be)
+- Chiara Novelli (chiara.novelli@ulb.be)
 
 
 ## How to open the exercise notebook
