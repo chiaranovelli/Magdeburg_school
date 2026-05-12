@@ -10,9 +10,9 @@ The exercise will be carried out entirely in Google Colab, no local installation
 ## What to do
 
 
-Open the notebook exercise.ipynb directly in Google Colab using this link: 
+Open the notebook directly in Google Colab using this link: 
 
-**[ROM_exercise](https://colab.research.google.com/github/chiaranovelli/Magdeburg_school/blob/main/PCA_POD_sol.ipynb)**
+**[exercise](https://colab.research.google.com/github/chiaranovelli/Magdeburg_school/blob/main/PCA_POD_sol.ipynb)**
 
 
 
