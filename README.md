@@ -12,7 +12,7 @@ The exercise will be carried out entirely in Google Colab, no local installation
 
 Open the notebook directly in Google Colab using this link: 
 
-**[exercise](https://colab.research.google.com/github/chiaranovelli/Magdeburg_school/blob/main/PCA_POD_sol.ipynb)**
+**[exercise](https://colab.research.google.com/github/chiaranovelli/Magdeburg_school/blob/main/PCA_POD_sol.ipynb#scrollTo=b1575de5)**
 
 
 
